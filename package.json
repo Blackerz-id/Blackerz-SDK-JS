@@ -1,0 +1,23 @@
+{
+  "name": "blackers-api-sdk",
+  "version": "0.0.35",
+  "description": "Developer kit for interacting with our API",
+  "main": "./lib/main.js",
+  "scripts": {
+    "start": "./lib/main.js",
+    "test": "node index.test.js"
+  },
+  "keywords": [
+    "api",
+    "sdk",
+    "blackerz"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fastering18/Blackerz-SDK.git"
+  },
+  "author": "Ghosteez",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
